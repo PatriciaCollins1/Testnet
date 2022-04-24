@@ -1,1 +1,2 @@
 # Testnet
+In blockchain technology, a testnet is an instance of a blockchain powered by the same or a newer version of the underlying software, to be used for testing and experimentation without risk to real funds or the main chain. Testnet coins are separate and distinct from the official (mainnet) coins, don't have value, and can be obtained freely from faucets. Testnets can be reset at any time.
